@@ -1,0 +1,7 @@
+# 主构建输出目录 (Hugo生成的静态文件)
+public
+# Hugo 内部资源缓存目录
+# 这些文件在每次构建时都会重新生成，不应提交到版本控制
+resources/_gen/
+# Hugo 构建锁文件
+.hugo_build.lock
