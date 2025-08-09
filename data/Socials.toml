@@ -1,0 +1,27 @@
+[[socials]]
+    id = "rss"
+    url = "/rss.xml"
+    icon = "rss"
+    title = "RSS"
+    weight = 1
+
+[[socials]]
+    id = "email"
+    url = "lxsoyo:lxsoyo@gmail.com"
+    icon = "envelope"
+    title = "Email"
+    weight = 2
+
+[[socials]]
+    id = "github"
+    url = "https://github.com/llxo"
+    icon = "github"
+    title = "GitHub"
+    weight = 3
+
+[[socials]]
+    id = "linux do"
+    url = "https://linux.do/u/llx_ky/summary"
+    icon = "linuxdo"
+    title = "LINUXDO"
+    weight = 4
